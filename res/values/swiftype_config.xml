@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <!-- THIS FIELD MUST BE UPDATED TO AVOID CONFLICTS WITH OTHER USERS OF THIS LIBRARY
+         Please append your default package namespace to the provided string, e.g.
+         com.swiftype.android.searchContentProvider.com.example.mysearchapp -->
+    <string name="search_content_provider_authority">com.swiftype.android.search.backend.SearchContentProvider</string>
+
+    <!-- THIS FIELD MUST BE UPDATED TO MATCH YOUR ENGINE:
+         Please enter the engine key of your Swiftype search engine here -->
+    <string name="engine_key">5eMMdfkKCgz5wxyhR9RL</string>
+
+</resources>
