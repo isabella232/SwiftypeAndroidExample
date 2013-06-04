@@ -1,0 +1,3 @@
+[submodule "SwiftypeAndroid"]
+	path = SwiftypeAndroid
+	url = git@github.com:swiftype/SwiftypeAndroid.git
