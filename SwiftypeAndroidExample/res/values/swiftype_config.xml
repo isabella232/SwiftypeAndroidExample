@@ -13,4 +13,12 @@
          Please enter the engine key of your Swiftype search engine here -->
     <string name="engine_key">5jZG1gmmCTFYbSSDjpqq</string>
 
+    <!-- Specify all document types you want to be activated for this application.
+             For crawler-based engines you can use '@array/crawler_based' and for
+             WordPress engines we provide '@array/wordpress'. You can modify these
+             configurations below as needed.
+             For API-based engines you can add multiple document types, if needed. -->
+    <array name="document_types">
+        <item>@array/crawler_based</item>
+    </array>
 </resources>
