@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
-    
+
+    <!-- The database version MUST be incremented on any changes in this file-->
+    <integer name="database_version">1</integer>
+
     <!-- THIS FIELD MUST BE UPDATED TO AVOID CONFLICTS WITH OTHER USERS OF THIS LIBRARY
          Please append your default package namespace to the provided string, e.g.
          com.swiftype.android.searchContentProvider.com.example.mysearchapp -->
