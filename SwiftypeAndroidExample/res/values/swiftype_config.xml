@@ -11,7 +11,7 @@
 
     <!-- THIS FIELD MUST BE UPDATED TO MATCH YOUR ENGINE:
          Please enter the engine key of your Swiftype search engine here -->
-    <string name="engine_key">5jZG1gmmCTFYbSSDjpqq</string>
+    <string name="engine_key"></string>
 
     <!-- Specify all document types you want to be activated for this application.
              For crawler-based engines you can use '@array/crawler_based' and for
