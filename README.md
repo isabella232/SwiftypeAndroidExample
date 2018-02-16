@@ -1,4 +1,4 @@
-# SwiftypeAndroidExample for Swiftype Site Search
+# Swiftype Android Example App for Swiftype Site Search
 
 This example app shows how easy it is to get started with [SwiftypeAndroid](https://github.com/swiftype/SwiftypeAndroid) to add [Swiftype-powered Site Search](https://swiftype.com) to your Android application.
 
