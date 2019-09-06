@@ -1,3 +1,7 @@
+> **⚠️ This repository is deprecated ⚠️**
+>
+> **We are no longer maintaining an Android library for Site Search. However, you can still build excellent native and mobile web experiences with [Site Search APIs and clients](https://swiftype.com/mobile-search). Thank you! - Elastic**
+
 # Swiftype Android Example App for Swiftype Site Search
 
 This example app shows how easy it is to get started with [SwiftypeAndroid](https://github.com/swiftype/SwiftypeAndroid) to add [Swiftype-powered Site Search](https://swiftype.com) to your Android application.
